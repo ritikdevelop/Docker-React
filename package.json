@@ -7,8 +7,14 @@
     "run": "node index.js",
     "test": "node test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ritikdevelop/Docker-React.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "bugs": "https://github.com/ritikdevelop/Docker-React/issues",
+  "homepage": "https://github.com/ritikdevelop/Docker-React#readme"
 }
