@@ -1,0 +1,2 @@
+- [x] Edit Dockerfile to change "RUN npm Install" to "RUN npm install"
+- [x] Run docker build command to verify the fix
